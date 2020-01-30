@@ -1,7 +1,7 @@
 # My Hackintosh Pro
 
 ## Description
-My OC folder (minus my serial) of my Hackintosh (Ryzen 3700x, 32GB DDR4, PowerColor Vega 64, 1TB SSG 970 Pro).
+My OpenCore folder (minus my serial) of my Hackintosh (Ryzen 3700x, 32GB DDR4, PowerColor Vega 64, 1TB SSG 970 Pro).
 This config is based off the MacPro7,1 (the latest Mac Pro). It enables better compatibility with more GPUs, including the AMD rx5700(xt).
 I am running macOS Catalina 10.15.2. I have it working in a triple boot with the other 2 OS (Windows 10 Pro, Ubuntu 19.10) installed on another SSD. I installed Windows first and then Ubuntu over it since Windows doesn't handle overwriting the Ubuntu EFI gracefully.
 
